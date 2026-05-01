@@ -1,6 +1,10 @@
 # Sales Performance Dashboard
 
-# Project Overviwe
+# Dashboard Preview
+https://github.com/mugannagari/Sales-Performance-Dashboards/blob/a824e0829e612701f2e1e28a11a21acacbf98e5f/Dashboard/Sales_Preformance_Dashboard.png
+
+
+# Project Overview
 
 Analyze sales data to identify to key revenue drivers, regional performance and trends to support business decision making. 
 
